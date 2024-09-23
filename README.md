@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manhwork/DSA-JavaScript-AC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/manhwork/DSA-JavaScript-AC/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/manhwork/DSA-JavaScript-AC/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/manhwork/DSA-JavaScript-AC/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/manhwork/DSA-JavaScript-AC/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manhwork/DSA-JavaScript-AC/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/manhwork/DSA-JavaScript-AC/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/manhwork/DSA-JavaScript-AC/tree/master/1019-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
